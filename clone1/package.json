@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+ "build": "esri-wab-build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esri-wab-build": "^1.2.0"
+
+  }
+}
